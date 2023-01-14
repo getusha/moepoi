@@ -36,15 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 10](https://anilist.co/activity/490254895) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
-* [Watched episode 43](https://anilist.co/activity/490249375) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
-* [Watched episode 8](https://anilist.co/activity/490247346) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
-* [Watched episode 14](https://anilist.co/activity/490180763) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 167](https://anilist.co/activity/490180736) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 11](https://anilist.co/activity/490180724) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
-* [Watched episode 240](https://anilist.co/activity/490180695) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 154](https://anilist.co/activity/490180681) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [Plans to watch None](https://anilist.co/activity/490117585) of [Shuumatsu no Valkyrie II](https://anilist.co/anime/138056)
+* [Watched episode 1](https://anilist.co/activity/504866163) of [Ayakashi Triangle](https://anilist.co/anime/142849)
+* [Watched episode 2](https://anilist.co/activity/504848653) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://anilist.co/anime/130588)
+* [Watched episode 2](https://anilist.co/activity/504829823) of [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://anilist.co/anime/152765)
+* [Watched episode 2](https://anilist.co/activity/504787275) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
+* [Watched episode 14](https://anilist.co/activity/504767676) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
+* [Watched episode 2](https://anilist.co/activity/504767614) of [Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life](https://anilist.co/anime/152523)
+* [Completed None](https://anilist.co/activity/504666748) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
+* [Watched episode 11](https://anilist.co/activity/504666709) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
+* [Completed None](https://anilist.co/activity/504650084) of [Vandread](https://anilist.co/anime/180)
+* [Watched episode 1 - 12](https://anilist.co/activity/504650071) of [Vandread](https://anilist.co/anime/180)
 <!-- anilist_activity ends -->
 
 </details>
@@ -95,9 +96,11 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- favorites_characters starts -->
 * [Akari Watanabe](https://anilist.co/character/191672)
+* [Mahiru Shiina](https://anilist.co/character/195602)
 * [Mukuro Hoshimiya](https://anilist.co/character/157109)
 * [Misaki Shokuhou](https://anilist.co/character/40136)
 * [Kuon](https://anilist.co/character/126823)
+* [Vladilena Milizé](https://anilist.co/character/141061)
 * [Yor Forger](https://anilist.co/character/138102)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Celia Claire](https://anilist.co/character/161678)
@@ -109,10 +112,8 @@ I'd like to do project that has relation to anime. :ghost:
 * [Yuuko Yoshida](https://anilist.co/character/141461)
 * [Ziyu Zhou](https://anilist.co/character/234726)
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
-* [Roroa Amidonia](https://anilist.co/character/133342)
 * [Ninym Ralei](https://anilist.co/character/206374)
 * [Marin Kitagawa](https://anilist.co/character/133676)
-* [Amalie](https://anilist.co/character/175297)
 * [Jibril](https://anilist.co/character/87887)
 * [Holo](https://anilist.co/character/7373)
 * [Miyuki Shiba](https://anilist.co/character/55741)
